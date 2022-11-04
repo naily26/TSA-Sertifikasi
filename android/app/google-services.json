@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820135506142",
+    "project_id": "sert-firebase",
+    "storage_bucket": "sert-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820135506142:android:e3916b0f7e23e41f34d24f",
+        "android_client_info": {
+          "package_name": "com.example.sertf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820135506142-ebukkbherka0c8b92kj7bbk7f1f2srav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcr7ZbRQqwont58KLYnkcUumguzUjWx3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820135506142-ebukkbherka0c8b92kj7bbk7f1f2srav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
